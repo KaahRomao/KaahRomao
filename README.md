@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Banner Kaah" width="100%" />
+  <img src="assets/spider.jpg" alt="Banner Kaah" width="100%" />
 </p>
 
 <h3 align="center">Olá, sou o Kaah</h3>
@@ -36,11 +36,11 @@
 
 ### Projetos
 
-| Projeto | Descrição |
-|---|---|
+| Projeto                                                                | Descrição                                                                     |
+| ---------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [Disney Character Browser](https://github.com/KaahRomao/Projeto-ideal) | Navegador de personagens Disney consumindo API pública, com fetch/async/await |
-| Dashboard multi-seção | Painel com conversores e cotação de câmbio em tempo real via API |
-| Sistema Hidráulica Pro | Interface construída com Tailwind CSS |
+| Dashboard multi-seção                                                  | Painel com conversores e cotação de câmbio em tempo real via API              |
+| Sistema Hidráulica Pro                                                 | Interface construída com Tailwind CSS                                         |
 
 ---
 
