@@ -29,7 +29,7 @@ const kaue = {
   foco: "Desenvolvimento de Sistemas",
   estudando: ["HTML", "CSS", "JavaScript", "Git & GitHub"],
   atualmente: "The Odin Project",
-  filosofia: "Fundamentos sólidos antes de frameworks",
+  filosofia: "Não tenha muletas",
   objetivo: "Evoluir como desenvolvedor através de projetos reais",
 };
 ```
@@ -132,8 +132,6 @@ Site institucional multi-página desenvolvido como projeto de prática de front-
 </p>
 
 ---
-
-## 🕷️ A aranha comendo os commits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/KaahRomao/KaahRomao/output/snake.svg" alt="Snake animation dos commits" />
