@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Kauê 👋</h1>
 
 <p align="center">
-  Estudante de Desenvolvimento de Sistemas (SENAI Barueri) | Front-end em formação
+  Estudante de Desenvolvimento de Sistemas (SENAI Barueri)
 </p>
 
 <p align="center">
