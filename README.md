@@ -1,68 +1,141 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Banner Kaah" width="100%" />
-</p>
+<div align="center">
 
-<h3 align="center">Olá, sou o Kaah</h3>
-<p align="center">Estudante de Desenvolvimento de Sistemas construindo o caminho para o desenvolvimento de software.</p>
+<img src="./assets/spiderman2099.png" width="100%" alt="Spider-Man 2099">
 
----
+<br>
 
-### Sobre mim
+# KAAH ROMÃO
 
-- Curso técnico em Desenvolvimento de Sistemas (SENAI Barueri)
-- Estudando HTML, CSS e JavaScript, com foco em fundamentos antes de frameworks
-- Aprendendo Git e GitHub como fluxo de trabalho no dia a dia
-- Dou aulas de robótica para grupos de alunos, usando eletrônica básica e materiais recicláveis
-- Uso o GitHub como portfólio: todo projeto que faço vai para um repositório
+### `SOFTWARE DEVELOPMENT STUDENT`
 
----
+**HTML · CSS · JavaScript · Git · GitHub**
 
-### Tecnologias que estou estudando
+<br>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E2001A" />
-  <img src="https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=E2001A" />
-  <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=E2001A" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=E2001A" />
-  <img src="https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=E2001A" />
-  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=E2001A" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square\&logo=github\&logoColor=58a6ff)](https://github.com/KaahRomao)
+
+</div>
 
 ---
 
-### Aprendendo atualmente
+## `01` — ABOUT ME
 
-- JavaScript via [The Odin Project](https://www.theodinproject.com/) — DOM, fetch, async/await, arrays vs. objects
-- Fluxos de Git: branches divergentes, commits estruturados, GitHub Pages
+I'm **Kaah**, a Development Systems student from Brazil.
 
----
+Currently focused on building a strong foundation in **web development**, learning by creating projects instead of only studying theory.
 
-### Projetos
+I'm working with **HTML, CSS and JavaScript**, while improving my Git workflow and building my portfolio here on GitHub.
 
-| Projeto | Descrição |
-|---|---|
-| [Disney Character Browser](https://github.com/KaahRomao/Projeto-ideal) | Navegador de personagens Disney consumindo API pública, com fetch/async/await |
-| Dashboard multi-seção | Painel com conversores e cotação de câmbio em tempo real via API |
-| Sistema Hidráulica Pro | Interface construída com Tailwind CSS |
+> `build → break → learn → rebuild`
 
 ---
 
-### Estatísticas do GitHub
+## `02` — CURRENTLY LEARNING
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KaahRomao&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=E2001A&text_color=f5f5f5&icon_color=E2001A" alt="Estatísticas GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaahRomao&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=E2001A&text_color=f5f5f5" alt="Linguagens mais usadas" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaahRomao&bg_color=0d0d0d&color=E2001A&line=E2001A&point=f5f5f5&hide_border=true" alt="Gráfico de contribuições" />
-</p>
+|    HTML   |   CSS   | JavaScript |       Git       |
+| :-------: | :-----: | :--------: | :-------------: |
+|     🌐    |    🎨   |      ⚡     |        🔀       |
+| Structure | Styling |    Logic   | Version Control |
+
+</div>
+
+### The Odin Project
+
+Currently using **The Odin Project** to strengthen my fundamentals and turn what I learn into real projects.
+
+**Focus:**
+
+`DOM` · `APIs` · `Async/Await` · `JavaScript` · `Git`
 
 ---
 
-### Objetivos futuros
+## `03` — PROJECTS
 
-- Concluir o curso técnico em Desenvolvimento de Sistemas (SENAI) até junho de 2027
-- Avaliar entrada em graduação na sequência
-- Trabalhar profissionalmente com desenvolvimento de software
-- Construir portfólio consistente no GitHub, projeto a projeto
+### ⚡ Disney Character Browser
+
+A web project that consumes a public API to search and display Disney characters.
+
+**Stack:** `HTML` `CSS` `JavaScript` `Fetch API`
+
+→ [View project](https://github.com/KaahRomao/Projeto-ideal)
+
+---
+
+### 🖥️ Dashboard
+
+A multi-section dashboard with utilities and real-time currency information through APIs.
+
+**Stack:** `HTML` `CSS` `JavaScript` `API`
+
+---
+
+### 🔧 Sistema Hidráulica Pro
+
+Interface project focused on building a practical web interface.
+
+**Stack:** `HTML` `CSS` `JavaScript`
+
+---
+
+## `04` — GITHUB
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaahRomao&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaahRomao&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaahRomao&bg_color=0d1117&color=58a6ff&line=f85149&point=ffffff&hide_border=true" width="95%">
+
+</div>
+
+---
+
+## `05` — ROADMAP
+
+```text
+2026
+
+[✓] HTML
+[✓] CSS
+[→] JavaScript
+[→] Git & GitHub
+[→] Build projects
+[ ] JavaScript advanced concepts
+[ ] Backend
+[ ] Databases
+```
+
+The goal isn't to learn everything at once.
+
+It's to build a solid foundation and progressively move toward **full-stack development**.
+
+---
+
+## `06` — CONNECT
+
+<div align="center">
+
+<a href="https://github.com/KaahRomao">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### `KEEP BUILDING.`
+
+<sub>One project at a time.</sub>
+
+</div>
