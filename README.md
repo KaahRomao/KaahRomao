@@ -142,7 +142,7 @@ Site institucional multi-página desenvolvido como projeto de prática de front-
 ---
 
 <p align="center">
-  <i>Com grandes poderes vêm grandes responsabilidades — e muitos commits.</i>
+  <i>Com grandes poderes vem grandes responsabilidades — e muitos commits.</i>
 </p>
 
 <p align="center">
